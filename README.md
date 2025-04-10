@@ -1,6 +1,6 @@
 ## Salut 👋
 
-## About Me
+## À propos de moi
 
 Bonjour, je me présent je m'appel Aleksa Mihajlovic et je suis en première année d'apprentissage en développement d'application.
 
