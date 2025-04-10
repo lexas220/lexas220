@@ -26,4 +26,4 @@ Bonjour, je me présent je m'appel Aleksa Mihajlovic, je suis en première anné
 
 ## Connect with me
 
-<pEmail: mihajlovic.aleksa1209@gmail.com</p>
+<p>Email: mihajlovic.aleksa1209@gmail.com</p>
