@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**lexas220/lexas220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Bonjour, je me présent je m'appel Aleksa Mihajlovic, je suis en première année d'apprentissage en développement d'application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=lexas220&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=lexas220&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=lexas220&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<pEmail: mihajlovic.aleksa1209@gmail.com</p>
