@@ -1,10 +1,10 @@
-## Hi there 👋
+## Salut 👋
 
 ## About Me
 
 Bonjour, je me présent je m'appel Aleksa Mihajlovic, je suis en première année d'apprentissage en développement d'application.
 
-## Compétences
+## Mes Compétences
 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
@@ -24,6 +24,6 @@ Bonjour, je me présent je m'appel Aleksa Mihajlovic, je suis en première anné
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=lexas220&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=lexas220&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
+## Contactez-moi par
 
 <p>Email: mihajlovic.aleksa1209@gmail.com</p>
