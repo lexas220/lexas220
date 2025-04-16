@@ -32,5 +32,5 @@ Bonjour, je me présente je m'appelle Aleksa Mihajlovic et je suis en première 
 
 <p>Email: mihajlovic.aleksa1209@gmail.com</p>
 
-[![Achète moi un café](cafe_github.png)](https://www.buymeacoffee.com/lexas220)
+[![Achète moi un café](cafe_logo.png)](https://www.buymeacoffee.com/lexas220)
 
