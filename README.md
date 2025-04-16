@@ -32,4 +32,4 @@ Bonjour, je me présente je m'appelle Aleksa Mihajlovic et je suis en première 
 
 <p>Email: mihajlovic.aleksa1209@gmail.com</p>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lexas220" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Achète moi un café" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Achète moi un café&emoji=&slug=lexas220&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/lexas220)
