@@ -32,4 +32,5 @@ Bonjour, je me présente je m'appelle Aleksa Mihajlovic et je suis en première 
 
 <p>Email: mihajlovic.aleksa1209@gmail.com</p>
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Achète moi un café&emoji=&slug=lexas220&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/lexas220)
+[![Achète moi un café](assets/bmc-button.png)](https://www.buymeacoffee.com/lexas220)
+
