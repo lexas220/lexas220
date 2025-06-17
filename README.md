@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Bonjour, je me présente je m'appelle Aleksa Mihajlovic et je suis en première année d'apprentissage en développement d'application.
+Je m'appelle Aleksa Mihajlovic et je suis en première année d'apprentissage en développement d'application.
 
 ## Mes Compétences
 
