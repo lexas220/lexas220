@@ -21,7 +21,6 @@ Je m'appelle Aleksa Mihajlovic et je suis en deuxième année d'apprentissage en
 ## Apercevoir mon travail
 
 <a href="http://am.koj.dev" target="_blank">Portfolio</a>
-<a href="https://ch.linkedin.com/in/aleksa-mihajlovic-213b242a5" target="_blank">LinkedIn</a>
 
 ## GitHub Stats
 
